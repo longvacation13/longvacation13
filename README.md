@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🛠️ Skill Trees
 
-<!--
-**longvacation13/longvacation13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Frameworks**:  
+  Spring Boot (**Java 8**, **Java 11**, **Java 21**)
+- **Databases & Caching**:  
+  Couchbase, Redis
+- **Messaging**:  
+  Kafka
+- **Cloud & Big Data**:  
+  Google Cloud BigQuery, Oracle ADW, Oracle Database
+- **Container & Orchestration**:  
+  Kubernetes (Rancher)
+- **Monitoring & Logging**:  
+  Datadog, Kibana, Pinpoint
+- **Version Control & CI/CD**:  
+  Git, Bitbucket/Bamboo
+- **Project Management**:  
+  Jira/Confluence
