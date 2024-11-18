@@ -1,3 +1,7 @@
+## 📘 My Tistory Blog
+[![Tistory](https://img.shields.io/badge/Tistory-Blog-F36F21?style=for-the-badge&logo=tistory&logoColor=white)](https://longvacation13.tistory.com/)
+
+
 ## 🛠️ Skill Trees
 
 ### Languages & Frameworks
