@@ -9,14 +9,14 @@
 ![Java](https://img.shields.io/badge/Java-8%2C%2011%2C%2017-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Databases & Caching
+### Caching
 ![Couchbase](https://img.shields.io/badge/Couchbase-EE1625?style=for-the-badge&logo=couchbase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Messaging
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### Cloud & Big Data
+### Cloud Database & Big Data & RDBMS
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Oracle ADW](https://img.shields.io/badge/Oracle%20ADW-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
