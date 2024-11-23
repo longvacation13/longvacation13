@@ -37,4 +37,4 @@
 ![Jira](https://img.shields.io/badge/Jira-Confluence-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🔍 My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longvacation13&layout=compact&count_private=true&hide=Jupyter%20Notebook,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longvacation13&layout=compact&count_private=true&hide=python,css)](https://github.com/anuraghazra/github-readme-stats)
